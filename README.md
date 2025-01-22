@@ -14,7 +14,7 @@
 ✍️ &nbsp;In my free time, I pursue my time teaching workshops on the use of computational tools for practical data analysis and doing projects as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at honter.medina@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]([https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp](https://1drv.ms/b/c/c495fb3287f8f8ee/EfugHQIo8kRCtWSsbGEi7ukBFgelHj998lmuqN44xxJExQ?e=bA8MyZ)) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://1drv.ms/b/c/c495fb3287f8f8ee/EfugHQIo8kRCtWSsbGEi7ukBFgelHj998lmuqN44xxJExQ?e=bA8MyZ) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
