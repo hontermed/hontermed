@@ -13,7 +13,7 @@
 🌱 &nbsp;I'm on track for learning more about application of business intelligence and Machine Learning.\
 ✍️ &nbsp;In my free time, I pursue my time teaching workshops on the use of computational tools for practical data analysis and doing projects as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at medina.honter@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at medinahonter@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://1drv.ms/b/c/c495fb3287f8f8ee/EfugHQIo8kRCtWSsbGEi7ukBFgelHj998lmuqN44xxJExQ?e=bA8MyZ) for more details about me. I'm open to feedback and suggestions!
 
 
@@ -76,7 +76,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:medina.honter@gmail.com"><img src="https://img.shields.io/badge/-medina.honter-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:medinahonter@gmail.com"><img src="https://img.shields.io/badge/-medinahonter-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hontermedina/"><img src="https://img.shields.io/badge/-Honter%20Medina-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://x.com/hontermed"><img src="https://img.shields.io/badge/-@hontermed-1DA1F2?style=flat&logo=X&logoColor=white"/></a>
 <a href="https://www.facebook.com/honter"><img src="https://img.shields.io/badge/-Honter-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
