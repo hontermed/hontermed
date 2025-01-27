@@ -76,11 +76,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:jhmedinar25@gmail.com"><img src="https://img.shields.io/badge/-jhmedinar25-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.tiktok.com/@hontermedina"><img src="https://img.shields.io/badge/-@hontermedina-FF0050?style=flat&logo=TikTok&logoColor=white"/></a>
-<a href="https://github.com/hontermed"><img src="https://img.shields.io/badge/-hontermed-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="mailto:medina.honter@gmail.com"><img src="https://img.shields.io/badge/-medina.honter-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hontermedina/"><img src="https://img.shields.io/badge/-Honter%20Medina-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://x.com/hontermed"><img src="https://img.shields.io/badge/-@hontermed-1DA1F2?style=flat&logo=X&logoColor=white"/></a>
+<a href="https://www.facebook.com/honter"><img src="https://img.shields.io/badge/-Honter-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@hontermedina"><img src="https://img.shields.io/badge/-@hontermedina-FF0050?style=flat&logo=TikTok&logoColor=white"/></a>
+<a href="https://github.com/hontermed"><img src="https://img.shields.io/badge/-hontermed-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
 
 
