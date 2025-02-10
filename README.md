@@ -9,7 +9,7 @@
 
 👨‍💻 &nbsp;I am Currently Working At the National Institute of Statistics and Informatics as Consistency Analyst in Peru.\
 💡 &nbsp;I like to explore new technologies and develop software solutions with Business Intelligence for making-decision.\
-🎓 &nbsp;I'm currently studying a specialization in Information Data engineering endorsed by the College of Economists of Peru.. .\
+🎓 &nbsp;I'm currently studying a specialization in Information Data engineering endorsed by the College of Economists of Peru.\
 🌱 &nbsp;I'm on track for learning more about application of business intelligence and Machine Learning.\
 ✍️ &nbsp;In my free time, I pursue my time teaching workshops on the use of computational tools for practical data analysis and doing projects as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
